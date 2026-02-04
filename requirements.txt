@@ -1,0 +1,28 @@
+# Azure AI Foundry SDK
+azure-ai-projects>=1.0.0
+azure-identity>=1.15.0
+openai>=1.35.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+jsonlines>=4.0.0
+tqdm>=4.65.0
+
+# Evaluation Metrics (based on the paper's methodology)
+bert-score>=0.3.13
+rouge-score>=0.1.2
+nltk>=3.8.0
+
+# Clinical NLP Processing
+spacy>=3.7.0
+
+# Environment Configuration
+python-dotenv>=1.0.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Data Validation
+pydantic>=2.0.0
