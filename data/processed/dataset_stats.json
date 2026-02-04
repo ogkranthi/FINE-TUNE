@@ -1,0 +1,29 @@
+{
+  "total_records": 10,
+  "splits": {
+    "train": {
+      "count": 8,
+      "note_types": [
+        "Nursing",
+        "Radiology",
+        "Physician"
+      ]
+    },
+    "validation": {
+      "count": 1,
+      "note_types": [
+        "Nursing",
+        "Radiology",
+        "Physician"
+      ]
+    },
+    "test": {
+      "count": 1,
+      "note_types": [
+        "Nursing",
+        "Radiology",
+        "Physician"
+      ]
+    }
+  }
+}

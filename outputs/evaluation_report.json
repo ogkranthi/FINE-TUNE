@@ -1,0 +1,20 @@
+{
+  "rouge1_precision": 0.7695652173913043,
+  "rouge1_recall": 0.75,
+  "rouge1_f1": 0.759656652360515,
+  "rouge2_precision": 0.48034934497816595,
+  "rouge2_recall": 0.46808510638297873,
+  "rouge2_f1": 0.47413793103448276,
+  "rougeL_precision": 0.5260869565217391,
+  "rougeL_recall": 0.5127118644067796,
+  "rougeL_f1": 0.51931330472103,
+  "bert_precision": 0.0,
+  "bert_recall": 0.0,
+  "bert_f1": 0.0,
+  "clinical_term_overlap": 0.375,
+  "diagnosis_coverage": 0.0,
+  "procedure_coverage": 0.0,
+  "avg_generated_length": 223.0,
+  "avg_reference_length": 228.0,
+  "length_ratio": 0.9780701754385965
+}

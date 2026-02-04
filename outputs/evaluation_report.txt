@@ -1,0 +1,42 @@
+
+============================================================
+        HOSPITAL COURSE SUMMARIZATION EVALUATION REPORT
+        Based on: "Harmonising the Clinical Melody" (arXiv:2409.14638)
+============================================================
+
+ROUGE SCORES
+------------
+ROUGE-1:
+  Precision: 0.7696
+  Recall:    0.7500
+  F1:        0.7597
+
+ROUGE-2:
+  Precision: 0.4803
+  Recall:    0.4681
+  F1:        0.4741
+
+ROUGE-L:
+  Precision: 0.5261
+  Recall:    0.5127
+  F1:        0.5193
+
+BERTSCORE
+---------
+  Precision: 0.0000
+  Recall:    0.0000
+  F1:        0.0000
+
+CLINICAL METRICS
+----------------
+  Clinical Term Overlap: 0.3750
+  Diagnosis Coverage:    0.0000
+  Procedure Coverage:    0.0000
+
+SUMMARY STATISTICS
+------------------
+  Avg Generated Length: 223.0 words
+  Avg Reference Length: 228.0 words
+  Length Ratio:         0.98
+
+============================================================
